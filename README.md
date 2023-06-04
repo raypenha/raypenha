@@ -38,12 +38,12 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :zap: in my free time I dedicate myself to sharpen my knowledge in new technologies like nextjs, integration of artificial intelligence to my projects and read tech articles.
 
 
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Penha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/penhajr)
 
 ---
 
 
 ### :hammer_and_wrench: Languages and Tools :
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Penha-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/penhajr)
 
 
 
